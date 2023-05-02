@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-todo-app/static/media/bg.a3e432f2.jpg"
   },
   {
-    "revision": "bd36c128793095514ca4ff0e8da5994d",
+    "revision": "5e1c250df0bfb05c0ab4da958abe7f77",
     "url": "/react-todo-app/index.html"
   }
 ];
