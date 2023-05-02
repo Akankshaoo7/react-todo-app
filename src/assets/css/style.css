@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+html,
+body {
+  height: 100%;
+}
+div#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-image: url("../images/bg.jpg");
+  background-position: center;
+  background-size: cover;
+}
+div.container {
+  width: 500px;
+  background-color: #00000061;
+  padding: 15px;
+  color: white;
+  border: 2px solid #ffffff;
+}
+div.container h1 {
+  text-align: center;
+}
+div.container img {
+  margin: 0 auto;
+  display: block;
+}
+.container .add-todo {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.container .add-todo #task {
+  width: 100%;
+  margin-right: 10px;
+  height: 30px;
+  border-radius: 0;
+  border: none;
+  outline: 0;
+  padding: 10px;
+}
+.container .btn {
+  border: none;
+  color: white;
+  background-color: #4caf50;
+  padding: 6px 10px;
+  text-align: center;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.container .btn:hover {
+  background-color: black;
+  color: white;
+}
+.container div.tasks {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  border-bottom: 1px solid #ffffff;
+}
+.tasks p {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.tasks .btn {
+  background-color: #f44336;
+}
+.add-todo .btn {
+  width: 77px;
+}
+.task-container {
+  height: 70vh;
+  overflow-y: scroll;
+  padding-right: 5px;
+}
+@media screen and (max-width: 500px) {
+  .container {
+    width: 100%;
+  }
+  div#root {
+    padding: 20px;
+  }
+}
