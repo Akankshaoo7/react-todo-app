@@ -1,15 +1,15 @@
 {
-  "main.css": "/my-todo-app/static/css/main.be1373e5.chunk.css",
-  "main.js": "/my-todo-app/static/js/main.39315b35.chunk.js",
-  "main.js.map": "/my-todo-app/static/js/main.39315b35.chunk.js.map",
-  "static/js/1.df667a71.chunk.js": "/my-todo-app/static/js/1.df667a71.chunk.js",
-  "static/js/1.df667a71.chunk.js.map": "/my-todo-app/static/js/1.df667a71.chunk.js.map",
-  "runtime~main.js": "/my-todo-app/static/js/runtime~main.1d94776e.js",
-  "runtime~main.js.map": "/my-todo-app/static/js/runtime~main.1d94776e.js.map",
-  "static/media/app-icon.png": "/my-todo-app/static/media/app-icon.eb3150bd.png",
-  "static/media/style.css": "/my-todo-app/static/media/bg.a3e432f2.jpg",
-  "static/css/main.be1373e5.chunk.css.map": "/my-todo-app/static/css/main.be1373e5.chunk.css.map",
-  "index.html": "/my-todo-app/index.html",
-  "precache-manifest.d0ffc035fdf62aafd68aff1950f8a95a.js": "/my-todo-app/precache-manifest.d0ffc035fdf62aafd68aff1950f8a95a.js",
-  "service-worker.js": "/my-todo-app/service-worker.js"
+  "main.css": "/react-todo-app/static/css/main.5ca6104f.chunk.css",
+  "main.js": "/react-todo-app/static/js/main.66251b80.chunk.js",
+  "main.js.map": "/react-todo-app/static/js/main.66251b80.chunk.js.map",
+  "static/js/1.df667a71.chunk.js": "/react-todo-app/static/js/1.df667a71.chunk.js",
+  "static/js/1.df667a71.chunk.js.map": "/react-todo-app/static/js/1.df667a71.chunk.js.map",
+  "runtime~main.js": "/react-todo-app/static/js/runtime~main.dc884f14.js",
+  "runtime~main.js.map": "/react-todo-app/static/js/runtime~main.dc884f14.js.map",
+  "static/media/app-icon.png": "/react-todo-app/static/media/app-icon.eb3150bd.png",
+  "static/media/style.css": "/react-todo-app/static/media/bg.a3e432f2.jpg",
+  "static/css/main.5ca6104f.chunk.css.map": "/react-todo-app/static/css/main.5ca6104f.chunk.css.map",
+  "index.html": "/react-todo-app/index.html",
+  "precache-manifest.d0e415d79fe9858302b5e01426b93117.js": "/react-todo-app/precache-manifest.d0e415d79fe9858302b5e01426b93117.js",
+  "service-worker.js": "/react-todo-app/service-worker.js"
 }
